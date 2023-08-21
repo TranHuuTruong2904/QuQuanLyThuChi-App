@@ -1,6 +1,6 @@
 <h1 align="center">Xây dựng đồ án Quản Thu Chi Cá Nhân trên nền tảng Android <a href="https://developer.android.com/" name="spring boot" ><img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/></a></h1>
 
-<h3 align="center">Sử dụng ngôn ngữ lập trình Java và các thẻ xây dựng giao diện được tính hợp sẵn trong Android Stdio</h3>
+<h3 align="center">Sử dụng ngôn ngữ lập trình Java và các thẻ xây dựng giao diện được tính hợp sẵn trong Android Studio</h3>
 
 # [**UI**](#ui)
 
